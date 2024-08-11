@@ -1,9 +1,8 @@
-# PUI homework
+# PINNACLE MOVIE PRINTS
 
-Deployed website: https://shirleyxinyidu.github.io/pui-homework-template/
+Website: https://shirleyduu.github.io/Pinnacle-Movie-Prints/
 
-Repository link: https://github.com/ShirleyXinyiDu/pui-homework-template.git
+Repository link: https://github.com/ShirleyDuu/Pinnacle-Movie-Prints
 
-Link to project gallery page: https://shirleyxinyidu.github.io/pui-homework-template/final-project/
 
 
